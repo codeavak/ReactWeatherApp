@@ -1,0 +1,33 @@
+.cloud {
+  color: blue;
+}
+.sun {
+  color: red;
+}
+
+.Summer {
+  background-color: orange;
+}
+.Winter {
+  background-color: aliceblue;
+}
+
+.seasonText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 15em;
+}
+
+.left-icon {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.right-icon {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
